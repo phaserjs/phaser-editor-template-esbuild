@@ -1,5 +1,5 @@
 {
-    "name": "template-esbuild",
+    "name": "phaser-editor-template-esbuild",
     "description": "A Phaser 3 template using esbuild.",
     "version": "1.2.1",
     "main": "index.js",
